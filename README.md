@@ -1,1 +1,1 @@
-# simple-auth-product-server
+# Simple Auth Product Server
